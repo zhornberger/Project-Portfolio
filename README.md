@@ -1,6 +1,6 @@
-# projects
+# Project Portfolio
 
-Portfolio of large or open-ended data projects.
+This repository serves as a portfolio for large, open-ended, or real-world projects that can be shared open-source.
 
 Projects in portfolio:
 - Financial analysis of COVID-19 Impact on Non-Appropriated Fund Facilities (to be added)
